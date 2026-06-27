@@ -13,7 +13,7 @@ const cli = meow(
 
 	Options
 	  --title,   -t   Sets the title of the notification.
-	                  Default: "An error has occured"
+	                  Default: "An error has occurred"
 	  --message, -m   Sets the message body of the notification.
 	                  Default: "Check the terminal for more information"
 	  --icon,    -i   Sets an icon. Can be any absolute path.
